@@ -2,6 +2,13 @@
 
 This platform allows users to create profiles, share posts, like and comment on posts, and follow each other. It’s designed to be user-friendly and responsive across all devices.
 
+---
+
+## 🎥 Website Video:
+[Check out the demo video here: [Insert your video link]](https://github.com/user-attachments/assets/43c89210-b640-4ae3-95ee-0f3c2a000b1e)
+
+---
+
 ## 👩🏻‍💻 Technologies Used:
 
 ### Front-end:
@@ -19,12 +26,7 @@ This platform allows users to create profiles, share posts, like and comment on 
 ## 🔮 Future Work:
 I plan to add real-time chat functionality using web sockets to enhance user interaction!
 
----
 
-## 🎥 Website Video:
-Check out the demo video here: [Insert your video link]
-
----
 
 ## 🛠️ Installation and Usage Instructions
 
